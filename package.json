@@ -27,7 +27,7 @@
     "bootstrap": "^4.4.1",
     "isomorphic-unfetch": "^3.0.0",
     "jquery": "^3.4.1",
-    "lazysizes": "^5.2.0",
+    "lazysizes": "^5.2.1",
     "material-ui-popup-state": "^1.5.4",
     "moment": "https://github.com/KhadijaMahanga/moment.git#develop",
     "next": "^9.4.1",
