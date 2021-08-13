@@ -30,7 +30,7 @@
     "lazysizes": "^5.2.0",
     "material-ui-popup-state": "^1.5.4",
     "moment": "https://github.com/KhadijaMahanga/moment.git#develop",
-    "next": "^9.4.1",
+    "next": "^11.1.0",
     "next-compose-plugins": "^2.2.0",
     "next-fonts": "^1.0.3",
     "next-images": "^1.3.0",
